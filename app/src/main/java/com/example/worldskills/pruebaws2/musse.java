@@ -11,5 +11,7 @@ public class musse extends AppCompatActivity {
         setContentView(R.layout.activity_musse);
 
         //jhyvgh
+
+        int tonto;
     }
 }
